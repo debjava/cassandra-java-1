@@ -103,7 +103,7 @@ Here the keyspace name is **test1**
 The basic structure for SOLR core is given below.
 The name of the solr core is **anywordSearch**.
 
-![Cassandra-Proj1.png](https://s3.postimg.org/8tq3e0do3/Cassandra_Proj1.png)(https://postimg.org/image/j3sid93jj/)
+![Cassandra-Proj1.png](https://s3.postimg.org/8tq3e0do3/Cassandra_Proj1.png)
 
 In the above project structure, you can find many cassandra queries to learn.
 
